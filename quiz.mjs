@@ -72,7 +72,7 @@ var question_list =[{
 },
 {
     question: " What was the name of Ross and Monica's dog when they were kids?",
-    options: ["Chi-Chi.",
+    options: ["Chi-Chi",
               "chi-chu",
               "Rocky",
               "DA-DA"],
